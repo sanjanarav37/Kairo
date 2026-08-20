@@ -1,6 +1,6 @@
 import homebg from './assets/homebg.jpeg'
 import Navbar from './components/Navbar.jsx'
-import Search from './components/search.jsx'
+import Search from './components/Search.jsx'
 import Spinner from './components/Spinner.jsx'
 import AnimeCard from './components/AnimeCard.jsx'
 import { useState, useEffect } from "react";
@@ -149,7 +149,6 @@ useEffect(() => {
 };
 
 export default App;
-
 
 
 
