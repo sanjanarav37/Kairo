@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom';
-import Search from './search.jsx'
+import Search from './Search.jsx'
 const Navbar = () => {
 const navigate = useNavigate();
   return (
@@ -24,4 +24,3 @@ const navigate = useNavigate();
 
 export default Navbar;
    
-
